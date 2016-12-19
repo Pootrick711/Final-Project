@@ -13,7 +13,7 @@ width:70%;
 } 
 
 img.Isis{align-content: center;} 
-img.Isis Terrorism{align-content: center;}
+
 #main{ 
 height:1000px;
 display:block; 
@@ -25,13 +25,13 @@ margin-right:auto;
 #sidebar 
 { 
 float:right; 
-background-color:blue; 
+background-color:aqua; 
 height:1000px; 
 width:30%;
 } 
 
 #youtube{ 
-background-color:blueviolet; 
+background-color:aqua; 
 height:25% ;
  
 } 
