@@ -1,7 +1,7 @@
 #header{  
 
 background-color:greenyellow;
-height:px;
+padding: 1px;
 }  
 
 #content{ 
@@ -58,7 +58,7 @@ width:100%;
 
 
 body{ 
-        background-color: black; 
+        background-color: black; margin-top:0; 
      }
     
      h2  { 
